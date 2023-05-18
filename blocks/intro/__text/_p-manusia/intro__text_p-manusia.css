@@ -1,0 +1,27 @@
+.intro__text_p-manusia {
+    width: 758px;
+    height: 170px;
+    margin: 40px 374px 0 148px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 142%;
+  }
+  
+  @media screen and (min-width: 767px) and (max-width: 1279px) {
+    .intro__text_p-manusia  {
+      width: 720px;
+      height: 170px;
+      margin: 0 auto;
+    }
+  }
+  
+  @media screen and (min-width: 320px) and (max-width: 767px) {
+    .intro__text_p-manusia  {
+      width: 288px;
+      height: 300px;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 150%;
+      margin: 5px auto 0;
+    }
+  }
