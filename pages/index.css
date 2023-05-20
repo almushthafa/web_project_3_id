@@ -30,11 +30,11 @@
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
-@import url(../blocks/place/__paragraph/_p1/place__paragraph_p1.css);
+/* @import url(../blocks/place/__paragraph/_p1/place__paragraph_p1.css);
 @import url(../blocks/place/__paragraph/_p2/place__paragraph_p2.css);
 @import url(../blocks/place/__paragraph/_p4/place__paragraph_p3.css);
 @import url(../blocks/place/__paragraph/_p4/place__paragraph_p4.css);
-@import url(../blocks/place/__paragraph/_p4/place__paragraph_p5.css);
+@import url(../blocks/place/__paragraph/_p4/place__paragraph_p5.css); */
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__website/place__website.css);

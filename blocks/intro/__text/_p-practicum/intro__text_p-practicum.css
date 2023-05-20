@@ -1,5 +1,5 @@
 .intro__text_p-practicum {
-    height: 208px;
+    /* height: 208px; */
     width: 720px;
     font-size: 16px;
     font-weight: 400;
@@ -18,7 +18,7 @@
   @media screen and (min-width: 320px) and (max-width: 767px) {
     .intro__text_p-practicum {
       width: 288px;
-      height: 432px;
+      /* height: 432px; */
       font-size: 15px;
       margin: 30px auto 0;
     }

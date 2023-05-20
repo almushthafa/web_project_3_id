@@ -1,6 +1,6 @@
 .place__website {
     width: 456px;
-    height: 67px;
+    /* height: 67px; */
     display: flex;
     align-self: flex-end;
     justify-content: flex-end;
@@ -11,7 +11,7 @@
   
   @media screen and (min-width: 767px) and (max-width: 1279px) {
     .place__website {
-      height: 67px;
+      /* height: 67px; */
       width: 309px;
       justify-content: flex-start;
       margin-bottom: 24px;

@@ -1,23 +1,26 @@
 .cover {
-    height: 740px;
+    /* height: 740px; */
+    min-height: 740px;
     width: 1184px;
     margin: 0 auto 92px auto;
     background-image: url("../../images/__background.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
-  
+
   @media screen and (min-width: 767px) and (max-width: 1279px) {
     .cover {
-      height: 746px;
+      /* height: 746px; */
+      min-height: 746px;
       width: 768px;
       margin: 0 auto;
     }
   }
-  
+
   @media screen and (min-width: 320px) and (max-width: 767px) {
     .cover {
-      height: 254px;
+      /* height: 254px; */
+      min-height: 254px;
       width: 320px;
       margin: 0 auto;
     }
