@@ -10,7 +10,6 @@
 
 @media screen and (min-width: 767px) and (max-width: 1279px) {
   .place {
-    grid-template-rows: 160px 400px 115px;
     grid-template-columns: auto;
     column-gap: 28px;
     grid-template-areas:
